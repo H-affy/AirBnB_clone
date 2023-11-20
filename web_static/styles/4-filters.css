@@ -8,6 +8,7 @@
     justify-content: flex-end;
     align-items: center;
     text-align: right;
+    margin-top: 15px;
 }
 section.filters button {
     background-color: #FF5A5F;
